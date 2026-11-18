@@ -1,18 +1,19 @@
 <!DOCTYPE html>
+
 <html lang="eng">
 
   <head>
 
-      <style>
+ <style>
             :root {  
-              --main-background: #FFF001; 
-              --main-foreground: #54C1E6;
-              --pane-background: 5px 42px ; 
+              -main-background: #FFF001; 
+              -main-foreground: #54C1E6;
+              -pane-background: 5px 42px ; 
             }
            
           body {
-            background-color: var(--main-backgorund);
-            foreground-color: var(--main-foreground);
+            background-color: var(-main-backgorund);
+            foreground-color: var(-main-foreground);
           }
         
       </style>    
